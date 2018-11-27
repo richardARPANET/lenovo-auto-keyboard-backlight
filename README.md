@@ -13,4 +13,4 @@ sudo chmod 777 /sys/class/leds/tpacpi::kbd_backlight/*
 ./install.sh
 ```
 
-3. Done
+3. Done. The script will check every 5 minutes and adjust the backlight based on the time of day.
