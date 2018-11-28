@@ -1,6 +1,6 @@
 # lenovo-auto-keyboard-backlight
 
-A script to turn on the Lenovo keyboard backlight between 7pm and 6.30am.
+A script to turn on the Lenovo keyboard backlight after 7pm.
 
 ## Installation
 
